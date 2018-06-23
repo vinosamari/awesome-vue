@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "33d4e24cd18fc3464a47f436e1e26cf2"
+    "revision": "4f03ea765fbe91d574d1a10143871a8f"
   },
   {
     "url": "assets/css/28.styles.ed99459e.css",
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "revision": "6727035a4f5a694be69ab7bbf756ecbb"
   },
   {
-    "url": "assets/js/20.817e9fc6.js",
-    "revision": "913a1c5b159e67a3334623ae3c5cae8e"
+    "url": "assets/js/20.216a804d.js",
+    "revision": "741d4da4b5f1229ab009da8dd6dfce26"
   },
   {
     "url": "assets/js/21.e2343ebf.js",
@@ -108,8 +108,8 @@ self.__precacheManifest = [
     "revision": "2d342b27f8832ab69434074b3787a084"
   },
   {
-    "url": "assets/js/26.66a4d4e4.js",
-    "revision": "66f80ec9b25571529daa3eb272c628ed"
+    "url": "assets/js/26.fbb4c6b8.js",
+    "revision": "59eaa6cdfb1ed735294faedb0ffdeff5"
   },
   {
     "url": "assets/js/27.9703d15a.js",
@@ -144,48 +144,48 @@ self.__precacheManifest = [
     "revision": "b0275f7e60b70e0d9feabc298de6636d"
   },
   {
-    "url": "assets/js/app.d45aa4d4.js",
-    "revision": "368b4c38b6a7462c721d060ddf6c6352"
+    "url": "assets/js/app.e6f9c22a.js",
+    "revision": "ab98b269e8a532d1a0849cdc08ae1dc8"
   },
   {
     "url": "components-and-libraries/dev-tools.html",
-    "revision": "acde84ebe4108444673ff9bf34cbb416"
+    "revision": "68d12bb4cfc8db2c44eb7f2f853b3232"
   },
   {
     "url": "components-and-libraries/frameworks.html",
-    "revision": "e4afa40a519164a5896389da2c523229"
+    "revision": "579ff6532e774d84b185d11b819a3d58"
   },
   {
     "url": "components-and-libraries/integrations.html",
-    "revision": "a77d9b4121d2fb7352aab51c841933f2"
+    "revision": "de32b53abe1ed0398e319628789ec655"
   },
   {
     "url": "components-and-libraries/prerendering.html",
-    "revision": "e892363ae766713eac1a8dbec55b6fbe"
+    "revision": "799e7bc3b14dbde30949a9d92fc6f6eb"
   },
   {
     "url": "components-and-libraries/runtime.html",
-    "revision": "4358674d28657c4a11ef26fe8e83bb33"
+    "revision": "68904a7edfc11924f29a8721e5c23990"
   },
   {
     "url": "components-and-libraries/scaffold.html",
-    "revision": "cdf869b9e118ef3550fe1d8397c4c84a"
+    "revision": "2a33045e55678afb29621ee7d1c5579c"
   },
   {
     "url": "components-and-libraries/ui-components.html",
-    "revision": "219fc214cbf75677e0dacd8ee41d79ff"
+    "revision": "02444f42ed18d3fcd3a4daf9b24d9ba3"
   },
   {
     "url": "components-and-libraries/ui-layout.html",
-    "revision": "9459c90016f06acc35a722b2bb9b2751"
+    "revision": "87c5dac51a4086ba63e8d6728bf477e0"
   },
   {
     "url": "components-and-libraries/ui-utilities.html",
-    "revision": "d0278ba445fce8e35dc21144ac5f58e8"
+    "revision": "76eb1700f738fa27a62218c0befd5c3c"
   },
   {
     "url": "components-and-libraries/utilities.html",
-    "revision": "62140979e86f041e88d940070a27254d"
+    "revision": "7208fa9fdc8646b41d72b8f30b25b17b"
   },
   {
     "url": "hero.png",
@@ -221,7 +221,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "bbc292327782809520a4000269b1868a"
+    "revision": "b9a790e10045ee3005bb2686014d4f6a"
   },
   {
     "url": "logo.png",
@@ -229,71 +229,71 @@ self.__precacheManifest = [
   },
   {
     "url": "projects-using-vue-js/a11y.html",
-    "revision": "301fb8715fc095ebf792c15f71c8dfd4"
+    "revision": "e75ae09f3eebb3e9d923c4d0af0f85c3"
   },
   {
     "url": "projects-using-vue-js/apps-websites.html",
-    "revision": "63f7b17f5610bbf5dcd63c2f850967d4"
+    "revision": "a6ccaea111802279b2ae4fce9b47f28e"
   },
   {
     "url": "projects-using-vue-js/commercial-products.html",
-    "revision": "120f5a2fa5a0b2fca5604e976d08b3ae"
+    "revision": "d1b4ad7e91c23cfc9164285137138e6e"
   },
   {
     "url": "projects-using-vue-js/enterprise-usage.html",
-    "revision": "6c9046b9b5195931e53bd6507fd76fc2"
+    "revision": "abf128768ed0337c57279c04fcfe4f21"
   },
   {
     "url": "projects-using-vue-js/interactive-experiences.html",
-    "revision": "1217052e9d08ad6ef5e55a9a6c7b85bf"
+    "revision": "51b792ac830ce898c3f5443ef5603d92"
   },
   {
     "url": "projects-using-vue-js/open-source.html",
-    "revision": "9ef63decefeba06185f46745af6c7c9e"
+    "revision": "034a51da89718ab49a7dba3313b220bb"
   },
   {
     "url": "resources/books.html",
-    "revision": "49af62fe54920a8c7c2e6c9df65c78a0"
+    "revision": "2dcdef5068b481961ffff9d8f3ca4c70"
   },
   {
     "url": "resources/community.html",
-    "revision": "553fc9b27b5ab4f3450b79f479cc48bd"
+    "revision": "9c05251e38965005ea16086bdf84196d"
   },
   {
     "url": "resources/conferences.html",
-    "revision": "04b098631068e52c2796932c12f59942"
+    "revision": "019737bf14d7686add88f3406b504365"
   },
   {
     "url": "resources/examples.html",
-    "revision": "a2b4d05beaab3a41367e5928cc4e80a6"
+    "revision": "68005de4bb3143a6adabc852a9be9073"
   },
   {
     "url": "resources/external-resources.html",
-    "revision": "bc25e2d2ee76ba75962fb6439d104b2f"
+    "revision": "50e0be6588230f3f4d01c082f3e2bcaf"
   },
   {
     "url": "resources/job-portal.html",
-    "revision": "ad93ed57b3b00b29df0a77101c72817a"
+    "revision": "f12ca36425fb28d7a8021a05e8796e4d"
   },
   {
     "url": "resources/official-examples.html",
-    "revision": "231b6658a0331491708bc11baf0db4af"
+    "revision": "95606133c9f705504425282c4c79f8c7"
   },
   {
     "url": "resources/official-resources.html",
-    "revision": "aabab34e3c14ce04c2a15f9b14f1df67"
+    "revision": "7589b2f2e24472a2dbc7a4e08f83eec3"
   },
   {
     "url": "resources/podcasts.html",
-    "revision": "9dce696ed937d38351938503c7718935"
+    "revision": "e744c6797ecd5361fdee425493b6971b"
   },
   {
     "url": "resources/tutorials.html",
-    "revision": "54031fcfaee0e4f9f49dbe9257c69858"
+    "revision": "ca1a3d97e7a49c2f1925065aa242bfd5"
   },
   {
     "url": "resources/youtube-channels.html",
-    "revision": "6e41aca63218d58a152badbb8de006fb"
+    "revision": "82b1f259c05f3058e70abe00a28e2a3b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
